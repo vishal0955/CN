@@ -1,4 +1,4 @@
-//1. Binary to decimal conversion
+//1. decimal binary  conversion
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
