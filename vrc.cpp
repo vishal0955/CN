@@ -1,3 +1,11 @@
+/*Program 1: Write a program to generate VRC for a given Character.
+Input: Character (Any Letter, digit or symbol) (ASCII value to binary)
+(Generate binary (8 bits) according to the ASCII value)
+Output: VRC with even/odd parity in 9 bits
+A= 65  binary  count ‘1’ bits  if even, parity bit = 0, else parity
+bit = 1 
+*/
+
 #include <iostream>
 using namespace std;
 
